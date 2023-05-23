@@ -1,0 +1,84 @@
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\iReverse Pusher Realtime.exe.config
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\iReverse Pusher Realtime.exe
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\iReverse Pusher Realtime.pdb
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\Mock4Net.Core.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\NaCl.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\Newtonsoft.Json.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\NSubstitute.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\nunit.engine.api.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\nunit.engine.core.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\nunit.engine.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\nunit.framework.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\PusherClient.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\PusherClient.Tests.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\PusherClient.Tests.Utilities.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\PusherServer.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\System.Buffers.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\System.Memory.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\System.ValueTuple.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\WebSocket4Net.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\NaCl.xml
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\Newtonsoft.Json.xml
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\PusherClient.Tests.pdb
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\PusherClient.Tests.dll.config
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\PusherClient.Tests.Utilities.pdb
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\System.Buffers.xml
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\System.Memory.xml
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\bin\Debug\System.ValueTuple.xml
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\obj\Debug\iReverse_Pusher_Realtime.csproj.AssemblyReference.cache
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\obj\Debug\iReverse_Pusher_Realtime.Main.resources
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\obj\Debug\iReverse_Pusher_Realtime.Properties.Resources.resources
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\obj\Debug\iReverse_Pusher_Realtime.csproj.GenerateResource.cache
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\obj\Debug\iReverse_Pusher_Realtime.csproj.CoreCompileInputs.cache
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\obj\Debug\iReverse_Pusher_Realtime.csproj.CopyComplete
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\obj\Debug\iReverse Pusher Realtime.exe
+C:\Users\email\source\repos\iReverse Pusher Realtime\iReverse Pusher Realtime\obj\Debug\iReverse Pusher Realtime.pdb
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\iReverse Pusher Realtime.exe.config
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\iReverse Pusher Realtime.exe
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\iReverse Pusher Realtime.pdb
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\Mock4Net.Core.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\NaCl.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\Newtonsoft.Json.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\NSubstitute.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\nunit.engine.api.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\nunit.engine.core.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\nunit.engine.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\nunit.framework.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\PusherClient.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\PusherClient.Tests.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\PusherClient.Tests.Utilities.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\PusherServer.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\System.Buffers.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\System.Memory.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\System.ValueTuple.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\WebSocket4Net.dll
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\NaCl.xml
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\Newtonsoft.Json.xml
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\PusherClient.Tests.pdb
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\PusherClient.Tests.dll.config
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\PusherClient.Tests.Utilities.pdb
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\System.Buffers.xml
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\System.Memory.xml
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\bin\Debug\System.ValueTuple.xml
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\obj\Debug\iReverse_Pusher_Realtime.csproj.AssemblyReference.cache
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\obj\Debug\iReverse_Pusher_Realtime.Main.resources
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\obj\Debug\iReverse_Pusher_Realtime.Properties.Resources.resources
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\obj\Debug\iReverse_Pusher_Realtime.csproj.GenerateResource.cache
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\obj\Debug\iReverse_Pusher_Realtime.csproj.CoreCompileInputs.cache
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\obj\Debug\iReverse_Pusher_Realtime.csproj.CopyComplete
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\obj\Debug\iReverse Pusher Realtime.exe
+C:\Users\email\source\repos\iReverse Pusher Realtime\Sources\obj\Debug\iReverse Pusher Realtime.pdb
