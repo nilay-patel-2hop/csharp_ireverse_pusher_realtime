@@ -61,7 +61,7 @@ namespace iReverse_Pusher_Realtime
         {
             _pusher = new Pusher(Config.AppKey, new PusherOptions
             {
-                ChannelAuthorizer = new HttpChannelAuthorizer("http://localhost/pusher/auth.php"),
+                ChannelAuthorizer = new HttpChannelAuthorizer("https://long-term-groom.000webhostapp.com/auth.php"),
                 Cluster = Config.Cluster,
                 Encrypted = Config.Encrypted,
                 TraceLogger = new TraceLogger(),

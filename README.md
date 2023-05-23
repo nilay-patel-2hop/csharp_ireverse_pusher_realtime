@@ -8,7 +8,8 @@ Yang digunakan dalam hal ini adalah :
 * Pusher Http PHP 7.2.3
 * Pusher JS
 * PHP 8.1
-
+* Auth private-channel dari repositori pusher-realtime-chatexsample
+* ~/Debug/AppConfig.json untuk Key API Pusher dan sebagainya.
 Silahkan ikuti langkah untuk mendaftarkan akun Pusher & mendapatkan APInya pada repositori berikut ini : 
 https://github.com/HadiKhoirudin/pusher-realtime-chatexsample.git
 
